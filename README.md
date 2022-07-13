@@ -2,6 +2,8 @@
 
 About me: Mostly Harmless
 
+* [Solana StackExchange Profile](https://solana.stackexchange.com/users/204/wagg)
+
 <!--
 **WaggMe/WaggMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
