@@ -2,7 +2,7 @@
 
 About me: Mostly Harmless
 
-* [Solana StackExchange Profile](https://solana.stackexchange.com/users/204/wagg)
+<a href="https://solana.stackexchange.com/users/204/wagg"><img src="https://solana.stackexchange.com/users/flair/204.png" width="208" height="58" alt="profile for Wagg at Solana Stack Exchange, Q&amp;A for Solana software users and developers" title="profile for Wagg at Solana Stack Exchange, Q&amp;A for Solana software users and developers"></a>
 
 <!--
 **WaggMe/WaggMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
