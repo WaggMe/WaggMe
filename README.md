@@ -2,6 +2,9 @@
 
 About me: Mostly Harmless
 
+## Referral Links
+My collection of [Referral Links](./Referral-Links.md) can help you get discounts or perks on various platforms, including games, DeFi, and more!
+
 ## Dashboards
 * [Bonk Dashboard](https://dune.com/wagg/bonk-stats) on Dune ([github backup](https://github.com/WaggMe/query-backups/tree/main/bonk-dashboard/dune))
 
